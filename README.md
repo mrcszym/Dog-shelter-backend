@@ -1,4 +1,4 @@
-# Dog-shelter
+# Dog-shelter BACKEND - frontend here -> https://github.com/mrcszym/Dog-shelter-frontend
 
 Animal shelter page using React, Spring and MySQL database.
 App uses authorizartion token in Spring Security.
